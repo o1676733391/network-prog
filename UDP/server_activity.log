@@ -1,0 +1,120 @@
+2024-09-26 01:22:30 - Client connected: 192.168.10.149:54581
+2024-09-26 01:22:30 - Client requested file: ex.txt
+2024-09-26 01:22:30 - Sent 32 of 32 bytes
+2024-09-26 01:22:30 - Finished sending file: ex.txt
+2024-09-26 01:22:36 - Client connected: 192.168.10.149:57090
+2024-09-26 01:22:36 - Client requested file: .env
+2024-09-26 01:22:36 - Sent 101 of 101 bytes
+2024-09-26 01:22:36 - Finished sending file: .env
+2024-09-26 01:23:41 - Server started on 192.168.10.149:12345
+2024-09-26 01:24:09 - Server started on 192.168.10.149:12345
+2024-09-26 01:24:26 - Client connected: 192.168.10.149:64763
+2024-09-26 01:24:26 - Client requested file: .env
+2024-09-26 01:24:26 - Sent 101 of 101 bytes
+2024-09-26 01:24:26 - Finished sending file: .env
+2024-09-26 01:24:40 - Client connected: 192.168.10.149:55077
+2024-09-26 01:24:40 - Client requested file: requirements.txt
+2024-09-26 01:24:40 - Sent 60 of 60 bytes
+2024-09-26 01:24:40 - Finished sending file: requirements.txt
+2024-09-26 01:24:56 - Client connected: 192.168.10.149:55078
+2024-09-26 01:24:56 - Client requested file: my_flask_app.spec
+2024-09-26 01:24:56 - Sent 951 of 951 bytes
+2024-09-26 01:24:56 - Finished sending file: my_flask_app.spec
+2024-09-26 01:27:23 - Server started on 192.168.10.149:12345
+2024-09-26 01:27:55 - Server started on 192.168.10.149:12345
+2024-09-26 01:28:10 - Server started on 192.168.10.149:12345
+2024-09-26 01:31:48 - Client connected: 192.168.10.149:50690
+2024-09-26 01:31:48 - Client requested file: ex.txt
+2024-09-26 01:31:48 - Sent 32 of 32 bytes
+2024-09-26 01:31:48 - Finished sending file: ex.txt
+2024-09-26 01:32:12 - Client connected: 192.168.10.149:60111
+2024-09-26 01:32:12 - Client requested file: .env
+2024-09-26 01:32:12 - Sent 101 of 101 bytes
+2024-09-26 01:32:12 - Finished sending file: .env
+2024-09-26 01:33:01 - Client connected: 192.168.10.149:52553
+2024-09-26 01:33:01 - Client requested file: ex.txt
+2024-09-26 01:33:01 - Sent 32 of 32 bytes
+2024-09-26 01:33:01 - Finished sending file: ex.txt
+2024-09-26 01:33:28 - Server started on 192.168.10.149:12345
+2024-09-26 01:33:47 - Server started on 192.168.10.149:12345
+2024-09-26 01:34:46 - Client connected: 192.168.10.149:52295
+2024-09-26 01:34:46 - Client requested file: ex.txt
+2024-09-26 01:34:46 - Sent 32 of 32 bytes
+2024-09-26 01:34:46 - Finished sending file: ex.txt
+2024-09-26 01:36:31 - Client connected: 192.168.10.149:63918
+2024-09-26 01:36:31 - Client requested file: ex.txt
+2024-09-26 01:36:31 - Sent 32 of 32 bytes
+2024-09-26 01:36:31 - Finished sending file: ex.txt
+2024-09-26 01:36:44 - Client connected: 192.168.10.149:59839
+2024-09-26 01:36:44 - Client requested file: .env
+2024-09-26 01:36:44 - Sent 101 of 101 bytes
+2024-09-26 01:36:44 - Finished sending file: .env
+2024-09-26 01:38:14 - Client connected: 192.168.10.149:60414
+2024-09-26 01:38:14 - Client requested file: my_flask_app.spec
+2024-09-26 01:38:14 - Sent 951 of 951 bytes
+2024-09-26 01:38:14 - Finished sending file: my_flask_app.spec
+2024-09-26 02:01:13 - Server started on 192.168.10.149:12345
+2024-09-26 02:02:40 - Client connected: 192.168.10.149:64861
+2024-09-26 02:02:40 - Client requested file: lab3.py
+2024-09-26 02:02:40 - Client connected: 192.168.10.149:64861
+2024-09-26 02:02:40 - Client requested file: lab3.py
+2024-09-26 02:02:40 - Sent 0 of 0 bytes
+2024-09-26 02:02:40 - Finished sending file: lab3.py
+2024-09-26 02:02:51 - Client connected: 192.168.10.149:54726
+2024-09-26 02:02:51 - Client requested file: ex.txt
+2024-09-26 02:02:51 - Client connected: 192.168.10.149:54726
+2024-09-26 02:02:51 - Client requested file: ex.txt
+2024-09-26 02:02:51 - Sent 32 of 32 bytes
+2024-09-26 02:02:51 - Finished sending file: ex.txt
+2024-09-26 02:03:55 - Client connected: 192.168.10.149:51053
+2024-09-26 02:03:55 - Client requested file: requirements.txt
+2024-09-26 02:03:55 - Client connected: 192.168.10.149:51053
+2024-09-26 02:03:55 - Client requested file: requirements.txt
+2024-09-26 02:03:55 - Sent 60 of 60 bytes
+2024-09-26 02:03:55 - Finished sending file: requirements.txt
+2024-09-26 02:05:36 - Server started on 192.168.10.149:12345
+2024-09-26 02:06:38 - Server started on 192.168.10.149:12345
+2024-09-26 02:11:03 - Client connected: 192.168.10.149:57335
+2024-09-26 02:11:03 - Client requested file: requirements.txt
+2024-09-26 02:11:03 - Client connected: 192.168.10.149:57335
+2024-09-26 02:11:03 - Client requested file: requirements.txt
+2024-09-26 02:11:03 - Sent 60 of 60 bytes
+2024-09-26 02:11:03 - Finished sending file: requirements.txt
+2024-09-26 02:14:18 - Client connected: 192.168.10.149:59300
+2024-09-26 02:14:18 - Client requested file: client.py
+2024-09-26 02:14:18 - Client connected: 192.168.10.149:59300
+2024-09-26 02:14:18 - Client requested file: client.py
+2024-09-26 02:14:18 - Sent 3682 of 3682 bytes
+2024-09-26 02:14:18 - Finished sending file: client.py
+2024-09-26 02:15:17 - Client connected: 192.168.10.149:56195
+2024-09-26 02:15:17 - Client requested file: ex.txt
+2024-09-26 02:15:17 - Client connected: 192.168.10.149:56195
+2024-09-26 02:15:17 - Client requested file: ex.txt
+2024-09-26 02:15:17 - Sent 32 of 32 bytes
+2024-09-26 02:15:17 - Finished sending file: ex.txt
+2024-09-26 02:15:50 - Server started on 192.168.10.149:12345
+2024-09-26 02:15:54 - Server started on 192.168.10.149:12345
+2024-09-26 11:37:17 - Server started on 192.168.1.237:12345
+2024-09-26 11:43:25 - Client connected: 192.168.1.111:58434
+2024-09-26 11:43:25 - Client requested file: ex.txt
+2024-09-26 11:43:26 - Client connected: 192.168.1.111:58434
+2024-09-26 11:43:26 - Client requested file: ex.txt
+2024-09-26 11:43:26 - Sent 32 of 32 bytes
+2024-09-26 11:43:26 - Finished sending file: ex.txt
+2024-09-26 11:43:50 - Client connected: 192.168.1.111:58435
+2024-09-26 11:43:50 - Client requested file: requirements.txt
+2024-09-26 11:43:50 - Client connected: 192.168.1.111:58435
+2024-09-26 11:43:50 - Client requested file: requirements.txt
+2024-09-26 11:43:50 - Sent 60 of 60 bytes
+2024-09-26 11:43:50 - Finished sending file: requirements.txt
+2024-09-26 11:44:06 - Client connected: 192.168.1.111:63999
+2024-09-26 11:44:06 - Client requested file: .env
+2024-09-26 11:44:06 - Client connected: 192.168.1.111:63999
+2024-09-26 11:44:06 - Client requested file: .env
+2024-09-26 11:44:06 - Sent 101 of 101 bytes
+2024-09-26 11:44:06 - Finished sending file: .env
+2024-09-30 15:58:06 - Server started on 192.168.1.237:12345
+2024-09-30 16:00:44 - Server started on 192.168.1.237:12345
+2024-09-30 16:01:25 - Created account for: vinhpham
+2024-09-30 16:01:25 - Account created for: vinhpham
+2024-09-30 16:01:28 - Sent file list to 192.168.1.237:52936 for account vinhpham
